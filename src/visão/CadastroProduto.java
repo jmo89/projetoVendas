@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package visão;
-//será que deu certo?
-//deu certo sim kkk...
 /**
  *
  * @author Joel
